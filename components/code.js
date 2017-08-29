@@ -29,6 +29,8 @@ class Code extends Component {
 
     registerLanguage(props.language, props.syntax)
   }
+  
+  console.log("are you kidding me with motherfucking spaces");
 
   render() {
     return (
